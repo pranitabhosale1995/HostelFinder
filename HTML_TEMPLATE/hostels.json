@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Ramakrushna Hostel",
+        "address": "Pushkaraj Soc. Dhankawadi, Pune",
+        "beds": 2,
+        "price": 50000,
+        "builtYear": 2018,
+        "features": {
+            "security": "24/7"
+        },
+        "location": {
+            "lat": "",
+            "long": ""
+        }
+    },
+    {
+        "name": "Ramakrushna Hostel",
+        "address": "Balaji Nagar, Pune",
+        "beds": 4,
+        "price": 70000,
+        "builtYear": 2014,
+        "features": {
+            "security": "24/7"
+        },
+        "location": {
+            "lat": "",
+            "long": ""
+        }
+    },
+    {
+        "name": "Center Point Hostel",
+        "address": "padmavati, Satara Rd. Pune",
+        "beds": 6,
+        "price": 75000,
+        "builtYear": 2015,
+        "features": {
+            "security": "24/7"
+        },
+        "location": {
+            "lat": "",
+            "long": ""
+        }
+    },
+    {
+        "name": "Queens Girls Hostel",
+        "address": "BVP, Katraj. Pune",
+        "beds": 15,
+        "price": 90000,
+        "builtYear": 2013,
+        "features": {
+            "security": "24/7"
+        },
+        "location": {
+            "lat": "",
+            "long": ""
+        }
+    },
+    {
+        "name": "park Boys Hostel",
+        "address": "Balaji Nagar, Satara Rd. Pune",
+        "beds": 5,
+        "price": 60000,
+        "builtYear": 2018,
+        "features": {
+            "security": "24/7"
+        },
+        "location": {
+            "lat": "",
+            "long": ""
+        }
+    }
+]
